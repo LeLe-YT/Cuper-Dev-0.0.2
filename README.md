@@ -35,12 +35,6 @@ Wir sind aktuell **2 Leute**, die gemeinsam an der Vision von "Cuper Dev" schrau
 
 ---
 
-## 🚀 Installation (Internal Only)
-Da das Spiel noch nicht öffentlich ist, bitte die internen Build-Anweisungen im Team-Channel beachten.
-
-1. Repository klonen.
-2. In der entsprechenden Engine (z.B. Unity/Godot) öffnen.
-3. Play drücken und den Würfel fliegen lassen!
 
 ---
 *Copyright By LeLe-YT and Akabane*
