@@ -1,9 +1,9 @@
-# 🟦 Cuper Dev 0.0.2 (In Development)
+# 🟦 Cuper Game (In Development)
 
 Willkommen im offiziellen Repository von **Cuper Dev**! Wir sind ein kleines Team aus 2 Entwicklern, die an einem einzigartigen 2D-Plattform-Erlebnis arbeiten.
 
 > **Status:** 🚧 Early Development (Internal Build)
-> **Version:** 0.0.2-dev
+> **Aktuelle Version:** 0.0.3-dev
 
 ---
 
